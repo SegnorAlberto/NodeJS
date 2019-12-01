@@ -1,0 +1,24 @@
+{
+  "name": "nn",
+  "version": "1.0.0",
+  "description": "first json test",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tonton",
+    "camus",
+    "jobs"
+  ],
+  "author": "Albert A",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1"
+  }
+}
